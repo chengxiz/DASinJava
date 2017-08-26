@@ -1,0 +1,5 @@
+package dasinjava.mhtsl;
+
+public abstract class AbstractMap {
+
+}

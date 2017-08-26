@@ -1,0 +1,12 @@
+package dasinjava.ss;
+
+public class quickSortQueue {
+	/** Quick-sort contents of a queue. */
+	public static <K> quickSort(Queue<K> S, Comparator<K> comp) {
+		int n = S.size();
+		if (n<2) return;				// queue is trivially sorted
+		// divide
+		K pivot = S.first();			// using first as arbitary pivot
+		Queue<K> L = new LinkedQueue<>();
+	}
+}

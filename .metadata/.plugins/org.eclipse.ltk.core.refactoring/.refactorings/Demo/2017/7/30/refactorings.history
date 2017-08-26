@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ss&apos; to &apos;dasinjava.ss&apos;&#x0D;&#x0A;- Original project: &apos;Demo&apos;&#x0D;&#x0A;- Original element: &apos;Demo/src/ss&apos;&#x0D;&#x0A;- Renamed element: &apos;Demo/src/dasinjava.ss&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ss&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ss" name="dasinjava.ss" qualified="false" references="true" stamp="1501113188534" textual="false" version="1.0"/>
+</session>

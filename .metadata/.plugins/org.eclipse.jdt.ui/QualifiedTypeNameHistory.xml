@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="dasinjava.list.PositionalList"/>
+<fullyQualifiedTypeName name="dasinjava.list.LinkedPositionalList"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.NoSuchElementException"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="dasinjava.list.ArrayList"/>
+<fullyQualifiedTypeName name="dasinjava.list.List"/>
+<fullyQualifiedTypeName name="dasinjava.mhtsl.AbstractSortedMap"/>
+<fullyQualifiedTypeName name="dasinjava.trees.LinkedBinaryTree"/>
+<fullyQualifiedTypeName name="dasinjava.list.Position"/>
+<fullyQualifiedTypeName name="dasinjava.priqueue.Entry"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="dasinjava.priqueue.DefaultComparator"/>
+<fullyQualifiedTypeName name="dasinjava.sqd.LinkedQueue"/>
+<fullyQualifiedTypeName name="dasinjava.sqd.Queue"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+</qualifiedTypeNameHistroy>

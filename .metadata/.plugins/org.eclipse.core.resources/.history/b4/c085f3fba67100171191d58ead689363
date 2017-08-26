@@ -1,0 +1,18 @@
+package dasinjava.mhtsl;
+
+import dasinjava.seartree.TreeMap;
+
+/** An implementation of a sorted map using a splay tree. */
+public class SplayTreeMap<K,V> extends TreeMap<K, V> {
+	/** Constructs an empty map using the natural ordering of keys. */
+	public SplayTreeMap() { super(); }
+	/** Constructs an empty map using the given comparator o order keys. */
+	public  SplayTreeMap( Comparator comp) { super(comp); }
+	/** Utility used to rebalance after a map operation. */
+	private void splay(Position<Entry<K,V>> p) {
+		while (!isRoot(p)) {
+			Position<Entry<K,V>> parent =parent(p);
+			Position<Entry<K,V>> grand = parent(parent);
+		}
+	}
+}

@@ -1,0 +1,7 @@
+package dasinjava.mhtsl;
+
+import dasinjava.seartree.TreeMap;
+
+public class AVLTreeMap extends TreeMap<K, V> {
+
+}
